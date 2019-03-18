@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Mar 19 04:17:43 BDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0169-92e1-c579-00000d64fc28 
+on database directory memory:/home/fahim/Git_Repos/R Projects/Sparklyr_Project/databaseName=metastore_db with class loader sun.misc.Launcher$AppClassLoader@4eec7777 
+Loaded from file:/home/fahim/spark/spark-2.4.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/home/fahim/Git_Repos/R Projects/Sparklyr_Project
+os.name=Linux
+os.arch=amd64
+os.version=4.18.0-16-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
